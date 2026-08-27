@@ -12,20 +12,29 @@ I also have a strong foundation in Front-End Development with React.js, JavaScri
 
 ## 🚀 Skills
 
-**AI & Data:**  
-Artificial Intelligence · Data Science · Machine Learning · Data Analysis · AI Prompt Engineering
+### 🤖 AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-**Programming:**  
-Python · C++ · SQL · C#
+**Data & AI:** Data Science · Machine Learning · Data Analysis · Artificial Intelligence · AI Prompt Engineering · SQL · PL/SQL
 
-**Web Development:**  
-React.js · JavaScript · HTML5 · CSS3 · Bootstrap · Node.js · jQuery
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs" />
+</p>
 
-**Tools:**  
-Git · GitHub · VS Code
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nodejs" />
+</p>
 
-**Soft Skills:**  
-Problem Solving · Teamwork · Organization · Event Management
+### 🛠️ Tools & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+**Soft Skills:** Problem Solving · Teamwork · Organization · Event Management
 
 ## 🎓 Training & Certifications
 
@@ -41,6 +50,13 @@ Problem Solving · Teamwork · Organization · Event Management
 - 📊 **Depi-R5-AI-ML**
 - 🎨 **Color Changer App**
 
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Osamaa04-26&show_icons=true&hide_border=true&rank_icon=github" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Osamaa04-26&layout=compact&hide_border=true" height="165">
+</p>
+
 ## 📫 Connect with Me
 
 <p>
@@ -49,6 +65,9 @@ Problem Solving · Teamwork · Organization · Event Management
   </a>
   <a href="https://www.linkedin.com/in/youssef-osamaa-20b7ab357/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Youssef-Osamaa04-26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
